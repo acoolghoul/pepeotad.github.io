@@ -1,5 +1,6 @@
 div.card {
   background-color: #9fd450;
+  border-style: solid;
   border: 15px #f7e370;
   border-radius: 15px;
   padding: 7px;
