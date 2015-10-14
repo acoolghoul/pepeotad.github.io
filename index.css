@@ -21,6 +21,8 @@ div.card {
   border-radius: 15px;
   padding: 7px;
   margin: 50px;
+  width: 370;
+  height: 510;
 }
 div.text {
   padding-top: 10%;
