@@ -1,1 +1,8 @@
-
+body {
+  background-color: #b2f0ff;
+}
+div.what {
+  color: black;
+  font-size: 200%;
+  font-family: Arial, Helvetica, sans-serif;
+}
