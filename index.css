@@ -18,11 +18,12 @@ attack {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-weight: bold;
+  font-size: 120%;
 }
 attackSub {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  font-size: 60%;
+  font-size: 100%;
 }
 div.text {
   padding-top: 10%;
