@@ -12,13 +12,11 @@ div.card {
 div.name {
   color: black;
   font-family: 'Gill Sans Std','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  font-weight: bold;
   font-size: 140%;
 }
 attack {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  font-weight: bold;
   font-size: 120%;
 }
 attackSub {
