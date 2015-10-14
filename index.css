@@ -10,18 +10,17 @@ div.card {
 div.name {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  text-decoration: bold;
+  font-weight: bold;
   font-size: 110%;
 }
 attack {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  text-decoration: bold;
+  font-weight: bold;
 }
 attackSub {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  text-decoration: none;
   font-size: 60%;
 }
 div.text {
