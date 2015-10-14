@@ -1,8 +1,17 @@
-body {
-  background-color: #b2f0ff;
+card {
+  background-color: #9fd450;
+  border: 15px #f7e370;
+  border-radius: 15px;
+  padding: 7px;
+  margin: 50px;
 }
-div.what {
+div.text {
+  padding-top: 10%;
   color: black;
   font-size: 200%;
   font-family: Arial, Helvetica, sans-serif;
+}
+img.energyIcon {
+  width: 15px;
+  height: 15px;
 }
