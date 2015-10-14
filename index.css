@@ -1,4 +1,13 @@
-name {
+div.card {
+  background-color: #9fd450;
+  border: 15px #f7e370;
+  border-radius: 15px;
+  padding: 7px;
+  margin: 50px;
+  width: 370;
+  height: 510;
+}
+div.name {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   text-decoration: bold;
@@ -14,15 +23,6 @@ attackSub {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   text-decoration: none;
   font-size: 60%;
-}
-div.card {
-  background-color: #9fd450;
-  border: 15px #f7e370;
-  border-radius: 15px;
-  padding: 7px;
-  margin: 50px;
-  width: 370;
-  height: 510;
 }
 div.text {
   padding-top: 10%;
