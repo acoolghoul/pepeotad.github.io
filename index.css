@@ -3,7 +3,7 @@ div.card {
   border-style: solid;
   border-color: #f7e370;
   border-width: 30px
-  border-radius: 20px;
+  border-radius: 1em;
   padding: 10px;
   margin-top: 50px;
   width: 390px;
