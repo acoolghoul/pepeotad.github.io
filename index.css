@@ -15,21 +15,26 @@ div.name {
   color: black;
   font-family: 'Gill Sans Std','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 140%;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 a {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 120%;
+  text-decoration: none;
 }
 a.hover {
   color: #ff33cc;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 120%;
+  text-decoration: none;
 }
 a.visited {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 120%;
+  text-decoration: none;
 }
 attackSub {
   color: black;
@@ -37,8 +42,8 @@ attackSub {
   font-size: 100%;
 }
 div.attacks {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 img.energyIcon {
   width: 20px;
