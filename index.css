@@ -36,11 +36,9 @@ attackSub {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 100%;
 }
-div.text {
-  padding-top: 10%;
-  color: black;
-  font-size: 200%;
-  font-family: Arial, Helvetica, sans-serif;
+div.attacks {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 img.energyIcon {
   width: 20px;
