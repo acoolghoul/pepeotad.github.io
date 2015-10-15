@@ -16,7 +16,17 @@ div.name {
   font-family: 'Gill Sans Std','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 140%;
 }
-attack {
+a {
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 120%;
+}
+a.hover {
+  color: #ff33cc;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 120%;
+}
+a.visited {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 120%;
