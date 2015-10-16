@@ -13,32 +13,32 @@ div.card {
 }
 div.name {
   color: black;
-  font-family: 'Gill Sans Std','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 140%;
   margin-left: 20px;
   margin-right: 20px;
 }
 a {
   color: black;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 120%;
   text-decoration: none;
 }
 a.hover {
   color: #ff33cc;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 120%;
   text-decoration: none;
 }
 a.visited {
   color: black;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 120%;
   text-decoration: none;
 }
 attackSub {
   color: black;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 100%;
 }
 div.attacks {
